@@ -1,4 +1,4 @@
-package Unit2.JavaCore.Worker;
+package Unit2.JavaCore.Lambdas.Worker;
 
 public class Worker {
     private OnTaskDoneListener callback;

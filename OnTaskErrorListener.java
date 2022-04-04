@@ -1,4 +1,4 @@
-package Unit2.JavaCore.Worker;
+package Unit2.JavaCore.Lambdas.Worker;
 
 @FunctionalInterface
 public interface OnTaskErrorListener {
